@@ -9,7 +9,7 @@ app.get('/will', function (req, res) {
     res.send('{ "response": "this is sravan" }');
 });
 app.get('/ready', function (req, res) {
-    res.send('{ "response": " Great!, To be part of assret team" }');
+    res.send('{ "response": " Great!, To be part of assretAI team" }');
 });
 app.listen(process.env.PORT || 3000);
 module.exports = app;

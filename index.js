@@ -6,7 +6,7 @@ app.get('/', function (req, res) {
 });
 
 app.get('/will', function (req, res) {
-    res.send('{ "response": "this is sravan kumar" }');
+    res.send('{ "response": "this is sravan" }');
 });
 app.get('/ready', function (req, res) {
     res.send('{ "response": " Great!, To be part of assretAI team" }');

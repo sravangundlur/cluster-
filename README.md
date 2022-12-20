@@ -1,2 +1,2 @@
 # cluster-
-automation
+autom

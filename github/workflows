@@ -17,6 +17,6 @@ jobs:
           context: .
           push: true
           tags: assertsecuretech/cluster:latest
-          dockerfile: Dockerfile
+          dockerfile: dockerfile
           username: ${{ secrets.assertsecuretech }}
           password: ${{ secrets.assertai@123 }}

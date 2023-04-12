@@ -8,7 +8,7 @@ jobs:
     name: Build and Push to GCP
     runs-on: ubuntu-latest
     env:
-      IMAGE_NAME: cluster
+      IMAGE_NAME: firstproject
       PROJECT_ID: first-383404
     steps:
     - name: Checkout

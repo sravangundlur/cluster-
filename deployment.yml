@@ -18,4 +18,4 @@ spec:
       - name: nodeserver
         image: thetips4you/nodeapp:latest
         ports:
-        - containerPort: 30000
+        - containerPort: 3000
